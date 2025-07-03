@@ -2,7 +2,8 @@
 nameOverride: ""
 fullnameOverride: ""
 
-## required fields for secret configuration
+## required fields for binding secret configuration
+
 discoveryEndpoint: ""
 tenantId: ""
 clientId: ""

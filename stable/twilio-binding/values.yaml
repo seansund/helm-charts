@@ -2,6 +2,8 @@
 nameOverride: ""
 fullnameOverride: ""
 
+## required fields for binding secret configuration
+
 accountSid: ""
 authToken: ""
 phone: ""

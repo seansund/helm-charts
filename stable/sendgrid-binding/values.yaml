@@ -2,5 +2,7 @@
 nameOverride: ""
 fullnameOverride: ""
 
+## required fields for binding secret configuration
+
 apiKey: ""
 fromEmail: ""
