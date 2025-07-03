@@ -1,0 +1,47 @@
+apiVersion: v1
+entries:
+  appid-binding:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-07-03T22:56:55.156243918Z"
+    description: A Helm chart for Kubernetes
+    digest: 0cb587b7046fd9f208d53a625fafd7ff5220903b3e59951e6a2994dcf8689004
+    name: appid-binding
+    type: application
+    urls:
+    - https://github.com/seansund/helm-charts/releases/download/appid-binding-1.0.0/appid-binding-1.0.0.tgz
+    version: 1.0.0
+  mongodb-binding:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-07-03T22:56:55.331384561Z"
+    description: A Helm chart for Kubernetes
+    digest: d7ac02666cfbf0ad63c6572cd8653583df3e9cd74c07a1a32c17172ca4f5b76e
+    name: mongodb-binding
+    type: application
+    urls:
+    - https://github.com/seansund/helm-charts/releases/download/mongodb-binding-1.0.0/mongodb-binding-1.0.0.tgz
+    version: 1.0.0
+  sendgrid-binding:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-07-03T22:56:55.536300876Z"
+    description: A Helm chart for Kubernetes
+    digest: 26f38f5c1d4c3846c7b7721f14ad85e6c28a44cbd4c9fb9418e2b950e2bfc0bc
+    name: sendgrid-binding
+    type: application
+    urls:
+    - https://github.com/seansund/helm-charts/releases/download/sendgrid-binding-1.0.0/sendgrid-binding-1.0.0.tgz
+    version: 1.0.0
+  twilio-binding:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-07-03T22:56:55.743324106Z"
+    description: A Helm chart for Kubernetes
+    digest: dbac19e211625c267c060ce14fbad7fa4dce50cdee77a744474f11c63fda81b6
+    name: twilio-binding
+    type: application
+    urls:
+    - https://github.com/seansund/helm-charts/releases/download/twilio-binding-1.0.0/twilio-binding-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-07-03T22:56:55.743330358Z"
